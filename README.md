@@ -10,7 +10,7 @@
   </em>  
 </p>
 
-
+![master1st's github stats](https://github-readme-stats.vercel.app/api?username=master1st&show_icons=true)
 
   
 
@@ -27,3 +27,4 @@
 * Name : seokhyun yoon
 * Email: gah1234@naver.com
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=master1st)](https://solved.ac/master1st)
