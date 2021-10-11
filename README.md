@@ -15,11 +15,11 @@
   
 
 
-<!--
+
 ### Project ⚡
 
-* Development Diary Blog([blog](https://master1st.github.io))
--->
+* Development Diary Blog([github_blog](https://master1st.github.io))
+
 
 ### Contacts 📫
 
@@ -27,4 +27,6 @@
 * Name : seokhyun yoon
 * Email: gah1234@naver.com
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=master1st)](https://solved.ac/master1st)
+![backendRoadMap](https://postfiles.pstatic.net/MjAyMTEwMTFfMjAx/MDAxNjMzOTIzMDg4MDQx.5D5XKtpgFDn8_MO-scuN9BKT_Jj8f8dz9JJjr_EOHcog.q2XJ8e979Nptb50zCOg4yMjll37keeWYJjVFfQTHauAg.PNG.gah1234/image.png?type=w773)
+
+> By Kamran Ahmed  and [backendRoadMap_source](https://roadmap.sh/backend)
