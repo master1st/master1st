@@ -23,6 +23,3 @@
 * Name : seokhyun yoon
 * Email: gah1234@naver.com
 
-![backendRoadMap](https://postfiles.pstatic.net/MjAyMTEwMTFfMjAx/MDAxNjMzOTIzMDg4MDQx.5D5XKtpgFDn8_MO-scuN9BKT_Jj8f8dz9JJjr_EOHcog.q2XJ8e979Nptb50zCOg4yMjll37keeWYJjVFfQTHauAg.PNG.gah1234/image.png?type=w773)
-
-> By Kamran Ahmed  and [backendRoadMap_source](https://roadmap.sh/backend)
