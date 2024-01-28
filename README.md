@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi, I’m Ys Hyun </h1></div>
+<div align=center><h3>👋 클라우드 엔지니어를 희망하는 학생입니다. </h3></div>
 <div align=center>
 
 
@@ -9,7 +9,7 @@
 <hr>
 <div align=center><h1>📚 STACKS</h1>
 
-<h3>I use it for work too.</h3>
+<h3>기본 이론을 알고 프로젝트에 사용가능 합니다</h3>
 <img src="https://img.shields.io/badge/argocd-34D058?style=for-the-badge&logo=argocd&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/reactnative-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<h3>I know how to use it to some extent.</h3>
+<h3>기본 이론을 알고 있는 수준입니다</h3>
 <img src="https://img.shields.io/badge/styled-component-DB7093?style=for-the-badge&logo=styledcomponent&logoColor=white">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
